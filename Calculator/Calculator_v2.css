@@ -1,0 +1,174 @@
+#div1{
+	width: 800px;
+	height: 800px;
+	background-color:  Black;
+	border: 5px solid white;
+	margin-top: 30px;
+	margin-left: 250px; 
+}
+#div2{
+	width: 700px;
+	height: 80px;
+	background-color:  gray;
+	border: 5px solid white;
+	margin-top: -750px;
+	margin-left: 300px; 
+}
+#Button1{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	margin-top: 40px;
+	margin-left: 300px;
+}
+#Button2{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+#Button3{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	margin-top: 0px;
+	margin-left: 20px;
+}
+#Button4{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+#Button5{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	margin-top: 0px;
+	margin-left: 20px;
+	background-color: #FF6060;
+}
+#Button6{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	position: relative;
+	top: 100px;
+	left: -500px;
+}
+#Button7{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	position: relative;
+	top: 100px;
+	left: -500px;
+}
+#Button8{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	position: relative;
+	top: 100px;
+	left: -500px;
+}
+#Button9{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	position: relative;
+	top: 100px;
+	left: -500px;
+}
+#Button10{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	position: relative;
+	top: 100px;
+	left: -500px;
+	background-color:#FF6060  ;
+}
+#Button11{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	position: relative;
+	top: 80px;
+	left: 300px;
+}
+#Button12{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	position: relative;
+	top: 80px;
+	left: 300px;
+}
+#Button13{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	position: relative;
+	top: 80px;
+	left: 300px;
+}
+#Button14{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	position: relative;
+	top: 80px;
+	left: 300px;
+}
+#Button15{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	position: relative;
+	top: 80px;
+	left: 300px;
+}
+#Button16{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	position: relative;
+	top: 180px;
+	left: -200px;
+}
+#Button17{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	position: relative;
+	top: 180px;
+	left: -200px;
+}
+#Button18{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	position: relative;
+	top: 180px;
+	left: -200px;
+}
+#Button19{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	position: relative;
+	top: 180px;
+	left: -200px;
+}
+#Button20{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	position: relative;
+	top: 180px;
+	left: -200px;
+	background-color: #00C1FF;
+}
